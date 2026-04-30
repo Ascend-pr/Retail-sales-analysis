@@ -85,7 +85,7 @@ Of 20 customers, 13 were classified as **High Value** (total spend ≥ ₦200), 
 ## 🚀 How to Run This Project
 
 1. Install PostgreSQL and open pgAdmin
-2. Create a new database called `retail_sales_db`
+2. Create a new database called `retail_sales_dbp`
 3. Open the Query Tool and run the scripts in this order:
    - `01_schema.sql` — creates all tables
    - `02_data.sql` — inserts categories, products, customers, orders, and order items
